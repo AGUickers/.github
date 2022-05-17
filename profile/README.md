@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
+Our main project is a Telegram bot.
+Our bot is created with schools and universities in mind and can be a great tool for those who wish to study.
 
-**Here are some ideas to get you started:**
+Features:
+- English and Russian support (more languages planned in future!)
+- Support system
+- Subscription system
+- Calculator, which will help you find the best course
+- Website as a Telegram Web App
+- High customizability - you can customize your welcome message, courses, subjects, FAQ text, button text and website - different for each language!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Feel free to try our bot via @AGUickers_SupportBot or use @AGUickers_bot to create your own.
