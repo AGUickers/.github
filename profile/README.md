@@ -10,5 +10,7 @@ Features:
 - Calculator, which will help you find the best course
 - Website as a Telegram Web App
 - High customizability - you can customize your welcome message, courses, subjects, FAQ text, button text and website - different for each language!
+- Quizzes support, both in-house and external
+- User commands as plain text or Web App
 
 Feel free to try our bot via @AGUickers_SupportBot or use @AGUickers_bot to create your own.
